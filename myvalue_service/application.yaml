@@ -1,11 +1,5 @@
 server:
-  port: 8888
+  port: 8081
   
-spring:
-  cloud:
-    config:       server:
-        git:
-          uri: https://github.com/Fabiobr27/ConfigServer.git
-          default-label: main
-          search-paths:
-          - '*service'
+some: 
+value: valor del servidor
