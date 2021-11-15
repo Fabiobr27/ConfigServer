@@ -2,4 +2,4 @@ server:
   port: 8081
   
 some: 
-value: valor del servidor
+  value: valor del servidor
